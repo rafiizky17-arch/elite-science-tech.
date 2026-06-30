@@ -1,8 +1,1 @@
-/Universal-Fortress  <-- (Ini Folder Utama di Laptop/GitHub kamu)
-│
-├── /shared_core     <-- (Taruh "Otak" dan Aturan di sini)
-│
-└── /apps            <-- (Taruh semua aplikasi kamu di sini)
-    ├── /edit_studio
-    ├── /keluarga_app
-    └── /admin_godmode
+
